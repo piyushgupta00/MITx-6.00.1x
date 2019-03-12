@@ -1,2 +1,1 @@
-# MITx-6.00.1x
-6.00.1x Introduction to Computer Science and Programming Using Python
+# MIT_6.001x
